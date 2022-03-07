@@ -1,7 +1,7 @@
 # link-to-server
 a conclusion of linking to server
 ## xshell  
-下载网址(https://www.xshell.com/zh/thank-you-download/)可能需要梯子
+下载网址(https://www.xshell.com/zh/thank-you-download/) 可能需要梯子
 
 注意Xftp也要下载，这个是用跟服务器传输文件的
 
